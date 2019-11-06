@@ -1,1 +1,2 @@
 stack-name: demo-lambda-edge-example
+template-path: template.yaml

@@ -1,5 +1,8 @@
 {
+  "name": "edgefunction",
+  "version": "1.0.0",
   "private": true,
-  "dependencies": {
+  "devDependencies": {
+    "aws-sdk": "~2"
   }
 }
