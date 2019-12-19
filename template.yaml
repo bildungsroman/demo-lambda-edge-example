@@ -52,7 +52,7 @@ Resources:
       Description: !Sub
         - Stackery Stack ${StackeryStackTagName} Environment ${StackeryEnvironmentTagName} Function ${ResourceName}
         - ResourceName: edgeFunction
-      Runtime: nodejs8.10
+      Runtime: nodejs12.x
       CodeUri: src/edgeFunction
       Handler: index.handler
       MemorySize: 1024
