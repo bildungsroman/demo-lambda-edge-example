@@ -84,7 +84,7 @@ Resources:
         IndexDocument: index.html
         ErrorDocument: index.html
     Metadata:
-      StackeryName: HostBucket
+      StackeryName: hostBucket
 Parameters:
   StackeryStackTagName:
     Type: String
